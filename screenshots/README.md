@@ -22,4 +22,4 @@ This folder contains screenshots of the Smart Retail AI Platform.
 # Analytics
 <img width="1091" height="700" alt="image" src="https://github.com/user-attachments/assets/97a78e9a-9728-4b07-85a5-947ef2842143" />
 
-
+***********************************************************************************************************************************
