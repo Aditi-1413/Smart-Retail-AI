@@ -1,0 +1,81 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ==========================
+# Virtual Environment
+# ==========================
+venv/
+.env
+.venv/
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# Streamlit Cache
+# ==========================
+.streamlit/
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Uploaded Images
+# ==========================
+uploads/*
+!uploads/.gitkeep
+
+# ==========================
+# Trained Models
+# ==========================
+*.h5
+*.keras
+*.pkl
+*.pickle
+*.joblib
+*.sav
+
+# ==========================
+# TensorFlow Checkpoints
+# ==========================
+checkpoints/
+*.ckpt
+*.index
+*.data-*
+
+# ==========================
+# Dataset Files
+# ==========================
+*.csv
+*.zip
+*.tar
+*.gz
+*.npz
+
+# Ignore datasets folder (if present)
+data/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+# Models
+app/models/*.yml
+app/models/*.keras
+app/models/*.pkl
+app/models/*.joblib
